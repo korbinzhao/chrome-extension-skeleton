@@ -1,0 +1,13 @@
+.skeleton-text-block-mark {
+  display: block;
+  background-origin: content-box;
+  background-clip: content-box;
+  background-color: transparent !important;
+  color: transparent !important;
+  text-shadow: none !important;
+  background-repeat: repeat-y
+}
+
+#skeleton-text-id {
+  visibility: hidden
+}

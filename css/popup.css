@@ -1,0 +1,16 @@
+.popup-container{
+  width: 300px;
+  height: 200px;
+}
+
+.operation-btn{
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  color: #fff;
+  background-color: lightsalmon;
+  border-radius: 5px;
+  margin: 10px;
+  cursor: pointer;
+}
